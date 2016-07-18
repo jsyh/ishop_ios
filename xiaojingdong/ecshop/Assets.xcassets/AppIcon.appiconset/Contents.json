@@ -1,0 +1,448 @@
+{
+  "images" : [
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "icon-58.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "29x29",
+      "idiom" : "iphone",
+      "filename" : "icon-87.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "icon-80.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "40x40",
+      "idiom" : "iphone",
+      "filename" : "icon-120.png",
+      "scale" : "3x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "icon-121.png",
+      "scale" : "2x"
+    },
+    {
+      "size" : "60x60",
+      "idiom" : "iphone",
+      "filename" : "icon-180.png",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "mac",
+      "size" : "32x32",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "mac",
+      "size" : "32x32",
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "fenxiang-icon@2x.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "search@2x.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "search@3x.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "shouye@2x-1.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "shouye@2x.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "size" : "32x32",
+      "idiom" : "mac",
+      "filename" : "sousuo@2x.png",
+      "unassigned" : true,
+      "scale" : "2x"
+    },
+    {
+      "filename" : "个人中心-标题栏-设置icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-标题栏-信息icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-购物车icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-退出icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-我的订单-待发货icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-我的订单-待付款icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-我的订单-待评价icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-我的订单-待收货icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-我的订单-售后icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-我的订单icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "个人中心-意见反馈icon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "关注icon@2x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "关注icon@3x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "关注icon@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "商品列表-saoyisao@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "我的订单 -去付款（等待付款）-装饰@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "我的订单 -去付款（等待付款）-装饰@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "我的订单-去付款（等待付款）-人icon@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "我的订单-去付款（等待付款）-人icon@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "我的订单-去付款（等待付款）-手机icon@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "我的订单-去付款（等待付款）-手机icon@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "已关注icon@2x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "已关注icon@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "已关注icon@3x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "已关注icon@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "支付-余额支付@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "支付-余额支付@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "支付-支付宝支付@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "支付-支付宝支付@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "back@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "back@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "bouns_content_bg_hasbeenused@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "bouns_content_bg_hasbeenused@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "bouns_content_bg_notstarted@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "bouns_content_bg_notstarted@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "bouns_content_bg_notused@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "bouns_content_bg_notused@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "del@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "del@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "detailsuo@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "fenlei(youdidaogao(weixuanzhong))2@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "fenlei(youdidaogao(weixuanzhong))2@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "fenlei(youdidaogao)@2x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "fenlei(youdidaogao)@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "fenlei(yougaodaodi)@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "fenlei(yougaodaodi)@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "fenxiang@3x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "friendicon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "gengduo@2x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "gengduo@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "gengduo@3x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "gengduo@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "home_head_icon_saoyisao@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "home_head_icon_saoyisao@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "icon_chose_arrow_sel@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "icon_chose_bottom@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "maicon.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "sale@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "share_erweima@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "share_friend@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "share_friend@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "shouye@3x-1.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "shouye@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "sousuo@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab-qiehuan(liebiaoxingshi)@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab-qiehuan(pubuliu)@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab-qiehuan(pubuliu)@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab0@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab0@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab1@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab1@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab2@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab2@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab3@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tab3@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc0@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc0@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc1@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc1@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc2@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc2@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc3@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tabc3@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tiaojianshaixuan(weixuanzhong)@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tiaojianshaixuan(yixuanzhong)@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "tiaojianshaixuan(yixuanzhong)@3x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "zonghe(weixuanzhong)@2x.png",
+      "unassigned" : true
+    },
+    {
+      "filename" : "zonghe(yixuanzhong)@2x.png",
+      "unassigned" : true
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
