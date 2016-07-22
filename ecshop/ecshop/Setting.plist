@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tabBarBackgroundColor</key>
+	<string>#262626</string>
+	<key>tabBarItemFont</key>
+	<string>10</string>
+	<key>tabBarIitmColorBefore</key>
+	<string>#FFFFFF</string>
+	<key>tabBarIitmColorAfter</key>
+	<string>#FFA500</string>
+	<key>UMSharekey</key>
+	<string></string>
+	<key>WXAppId</key>
+	<string></string>
+	<key>WXappSecret</key>
+	<string></string>
+	<key>shareurl</key>
+	<string></string>
+	<key>QQWithAppId</key>
+	<string></string>
+	<key>QQappKey</key>
+	<string></string>
+	<key>navigationBGColor</key>
+	<string>#F9F9F9</string>
+	<key>navigationTitleFont</key>
+	<string>18</string>
+	<key>naiigationTitleColor</key>
+	<string>#000000</string>
+	<key>navigationRightColor</key>
+	<string>#007FFF</string>
+	<key>navigationRightFont</key>
+	<string>17</string>
+	<key>GuideButtonBGColor</key>
+	<string>#FFFFFF</string>
+	<key>GuideButtonTitleColor</key>
+	<string>#ff4981</string>
+	<key>GuideButtonTitle</key>
+	<string>立即体验</string>
+	<key>tabbar1</key>
+	<string>首页</string>
+	<key>tabbar2</key>
+	<string>分类</string>
+	<key>tabbar3</key>
+	<string>购物车</string>
+	<key>tabbar4</key>
+	<string>我的</string>
+	<key>url</key>
+	<string>http://demo1.ishopv.com/shopapi/index.php</string>
+	<key>imgUrl</key>
+	<string>http://demo1.ishopv.com</string>
+</dict>
+</plist>
